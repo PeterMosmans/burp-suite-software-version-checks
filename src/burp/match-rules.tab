@@ -17,6 +17,7 @@ Tomcat-([0-9\\.]+)	1	JBoss (Tomcat)	Low	Certain
 JBossWeb/([0-9\\.]+(GA)?)	1	JBoss Webserver	Low	Certain
 Joomla! ([0-9\\.]+)	1	Joomla!	Low	Certain
 jQuery JavaScript Library v([0-9\\.]+)	1	jQuery JavaScript Library	Information	Certain
+jQuery UI Core ([0-9\\.]+)	1	jQuery UI Core	Information	Certain
 jQuery UI Touch Punch ([0-9\\.]+)	1	jQuery UI Touch Punch	Information	Certain
 jQuery hashchange event - v([0-9\\.]+)	1	jQuery hashchange event	Information	Certain
 jQuery Tiny Pub/Sub - v([0-9\\.]+)	1	jQuery Tiny Pub/Sub	Information	Certain
